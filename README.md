@@ -34,6 +34,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/landogomez/landogomez/output/snake.svg" alt="Snake animation" />
 
-###
