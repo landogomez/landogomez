@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm from Mexico City, Mexico<br><br>- 🔭 ISC student at ESCOM-IPN<br>- 📚 I'm currently learning Microservices architecture and DevOps<br>- ⚡ UX/UI enjoyer</p>
+<p align="left">Maybe in another universe i'm a badass cowboy<br><br>- 🔭 ISC student at ESCOM-IPN<br>- 📚 I'm currently learning Microservices architecture and DevOps<br>- ⚡ UX/UI enjoyer</p>
 
 ###
 
